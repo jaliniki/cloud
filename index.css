@@ -1,0 +1,41 @@
+.filedwnlbutton {
+    background-color: rgb(0, 24, 238);
+    color: white;
+    border-radius: 10px;
+    border-color: black;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    cursor: pointer;
+    margin:auto;
+    display:block;
+}
+
+.wrapper {
+    justify-content: center;
+    margin-top: 120px;
+    width: auto;
+    height: fit-content;
+}
+
+.headwriting {
+    font-family: 'Fredoka One', cursive;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+body {
+  background: #ffffff;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
