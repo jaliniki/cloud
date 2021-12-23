@@ -3,7 +3,7 @@
 
 **Step by step:**
 
-1. Install firebase in your project with 'npm install firebase'
+1. Install firebase in your project with `npm install firebase`
 
 2. Create a project in firebase: [Firebase](https://firebase.google.com/)
 
