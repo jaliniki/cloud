@@ -20,4 +20,4 @@
 
 * Upload every type of file which will directly be sent as a downloadlink to the specified receiver adress
 * Change the code or use it in a bigger project (also change css)
-* Use it commercial
+* Use it commercially
