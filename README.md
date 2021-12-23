@@ -3,15 +3,17 @@
 
 **Step by step:**
 
-1. Create a project in firebase: [Firebase](https://firebase.google.com/)
+1. Install firebase in your project with 'npm install firebase'
 
-2. Enable storage in the firebase console
+2. Create a project in firebase: [Firebase](https://firebase.google.com/)
 
-3. Replace the api key in the code with the one of your project
+3. Enable storage in the firebase console
 
-4. Replace the gmail username and password in the code (this only works with gmail)
+4. Replace the api key in the code with the one of your project
 
-5. Replace the receiver email adress in the code with the one you want the files you upload to be sent to
+5. Replace the gmail username and password in the code (this only works with gmail)
+
+6. Replace the receiver email adress in the code with the one you want the files you upload to be sent to
 
 ***You are done***
 
